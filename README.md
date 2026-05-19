@@ -30,5 +30,4 @@ Control Flow : if-else used in calculateGrade() and compareMarks()
 2. Navigate to StudentManagementSystem.java
 3. Click the ▶️ Run button or press Shift + F10
 
-## Author
-Nsobanurira Neza — May 2026
+
